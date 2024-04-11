@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chitranshs&label=Profile%20views&color=0e75b6&style=flat" alt="chitranshs" /> </p>
 
-- 🔭 I’m currently working on **NHL Detection using QML**
+- 🔭 I’m currently working on **NHL Detection using QML and MultiStage DL Framework for Face Reconstruction **
 
 - 🌱 I’m currently learning **Generative AI**
 
