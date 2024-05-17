@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chitransh</h1>
-<h3 align="center">I am a ML enthusiast and full stack developer. I train ML models and love backend.</h3>
+<h3 align="center">I am a ML enthusiast and full stack developer. I train DL models and love backend.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chitranshs&label=Profile%20views&color=0e75b6&style=flat" alt="chitranshs" /> </p>
 
